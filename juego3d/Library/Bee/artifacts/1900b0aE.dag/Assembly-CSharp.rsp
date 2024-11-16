@@ -357,6 +357,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/scripts/Caja.cs"
 "Assets/scripts/Meta.cs"
+"Assets/scripts/pausa.cs"
 "Assets/scripts/PlayerCamera.cs"
 "Assets/scripts/PlayerController.cs"
 "Assets/scripts/Puntaje.cs"
