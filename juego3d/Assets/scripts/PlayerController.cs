@@ -11,11 +11,12 @@ public class PlayerController : MonoBehaviour
     
     void Start()
     {
-        
+        Time.timeScale = 1f;
     }
 
     void Update()
     {   
+        
         horizontalInput = Input.GetAxis("Horizontal");
         //mover hacia adelante
          transform.Translate(Vector3.forward * Time.deltaTime * velocidad);

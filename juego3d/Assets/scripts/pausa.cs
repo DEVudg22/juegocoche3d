@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 public class pausa : MonoBehaviour
 {
     [SerializeField] private GameObject menuPausa;
+   
+
     public void Pausa(){
         Time.timeScale = 0f;
         menuPausa.SetActive(true);
@@ -24,4 +26,6 @@ public class pausa : MonoBehaviour
     public void salir(){
         SceneManager.LoadScene("menu");
     }
+
+   
 }

@@ -356,6 +356,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/scripts/Caja.cs"
+"Assets/scripts/fail.cs"
+"Assets/scripts/final.cs"
 "Assets/scripts/menu.cs"
 "Assets/scripts/Meta.cs"
 "Assets/scripts/pausa.cs"
